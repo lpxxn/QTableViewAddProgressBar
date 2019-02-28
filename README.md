@@ -1,2 +1,2 @@
 # QTableViewAddProgressBar
-qt tableview ad progressbar
+qt tableview add button and progressbar
